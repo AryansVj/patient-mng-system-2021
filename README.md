@@ -3,7 +3,8 @@ A covid-19 Patient Management System developed using C as a mini project for lea
 
 -------------------------------------------------------------------------------------
 E/18/027
-Submission for the Mini Project of CO253                                   2022/01/22
+Submission for the Mini Project of CO253
+2022/01/22
 
 [1] The two files contain the same source code for the specified task
 
